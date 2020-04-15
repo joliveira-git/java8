@@ -18,3 +18,6 @@ https://blog.caelum.com.br/java-8-lambda-ou-method-reference-entenda-a-diferenca
 Bônus:
 * Exemplo de Mapeamento de Herança no Hibernate:
 https://www.devmedia.com.br/tipos-de-heranca-no-hibernate/28641
+
+Data e Hora (Java 8 e Java 9)
+https://medium.com/@racc.costa/data-e-hora-no-java-8-e-no-java-9-5f1e3fd8d560
